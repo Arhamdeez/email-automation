@@ -1,0 +1,6 @@
+.env
+sent_log.csv
+optout.txt
+.venv/
+venv/
+__pycache__/
